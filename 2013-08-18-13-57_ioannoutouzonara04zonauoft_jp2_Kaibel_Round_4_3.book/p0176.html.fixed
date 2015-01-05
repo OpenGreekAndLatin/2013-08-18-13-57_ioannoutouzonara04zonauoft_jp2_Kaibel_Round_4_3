@@ -1,0 +1,1426 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"></meta>
+    <meta name="ocr-system" content="riguadon 0.3"></meta>
+    <meta content="1" name="ocr-number-of-pages"></meta>
+    <meta content="grc lat" name="ocr-langs"></meta>
+    <meta name="ocr-capabilities" content="ocr_line ocr_page"></meta>
+    <title>OCR Output</title>
+    <title>ocr</title>
+  </head>
+  <body>
+    <div id="i0176.png" class="ocr_page">
+      
+      
+      <span title="bbox 242 100 1311 153" class="ocr_line">
+        <span title="bbox 242 103 338 153" class="ocr_word" id="w_0">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">164</ins>
+          </span>
+        </span>
+        <span title="bbox 687 105 800 144" class="ocr_word" id="w_1">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">LIB.</ins>
+            <del title="nlp 0.90">LIB.</del>
+          </span>
+        </span>
+        <span title="bbox 829 100 966 143" class="ocr_word" id="w_2">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ΚV1I.</ins>
+          </span>
+        </span>
+        <span title="bbox 997 101 1120 144" class="ocr_word" id="w_3">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">CAP.</ins>
+            <del title="nlp 0.90">CAP.</del>
+          </span>
+        </span>
+        <span title="bbox 1151 103 1311 145" class="ocr_word" id="w_4">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">xxIII.</ins>
+            <del title="nlp 0.90">xxIII.</del>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 179 209 1760 289" class="ocr_line">
+        <span title="bbox 179 234 218 272" class="ocr_word" id="w_5">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">D</ins>
+            <del title="nlp 0.90">D</del>
+          </span>
+        </span>
+        <span title="bbox 243 215 517 286" class="ocr_word" id="w_6">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ἐνἸβηρσι</ins>
+            <del title="nlp 0.90">Ἴβηρσι</del>
+            <del title="nlp 0.89">Ἴβηρσιν</del>
+            <del title="nlp 0.88">Ἰβηρίαι</del>
+          </span>
+        </span>
+        <span title="bbox 544 218 609 283" class="ocr_word" id="w_7">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῇ</ins>
+          </span>
+        </span>
+        <span title="bbox 655 218 910 282" class="ocr_word" id="w_8">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ρωμαίων</ins>
+            <del title="nlp 0.90">Ἰθωμαίων</del>
+            <del title="nlp 0.89">ὑπωμαίων</del>
+            <del title="nlp 0.88">Δαμαίων</del>
+          </span>
+        </span>
+        <span title="bbox 937 209 1194 285" class="ocr_word" id="w_9">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἡγεμονίᾳ</ins>
+          </span>
+        </span>
+        <span title="bbox 1223 214 1585 286" class="ocr_word" id="w_10">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">διαφερόντων</ins>
+          </span>
+        </span>
+        <span title="bbox 1615 214 1760 289" class="ocr_word" id="w_11">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 240 290 1760 367" class="ocr_line">
+        <span title="bbox 240 294 337 363" class="ocr_word" id="w_12">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 366 292 534 363" class="ocr_word" id="w_13">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀρχὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 564 290 873 361" class="ocr_word" id="w_14">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀνατίθησι,</ins>
+          </span>
+        </span>
+        <span title="bbox 904 297 1453 364" class="ocr_word" id="w_15">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατεσχηματισμένην</ins>
+          </span>
+        </span>
+        <span title="bbox 1483 292 1760 367" class="ocr_word" id="w_16">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εὐπροσώ-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 241 370 1761 445" class="ocr_line">
+        <span title="bbox 241 395 352 437" class="ocr_word" id="w_17">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πως</ins>
+          </span>
+        </span>
+        <span title="bbox 381 370 676 444" class="ocr_word" id="w_18">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑπερορίαν</ins>
+          </span>
+        </span>
+        <span title="bbox 716 372 884 427" class="ocr_word" id="w_19">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτοῦ</ins>
+          </span>
+        </span>
+        <span title="bbox 925 375 1433 443" class="ocr_word" id="w_20">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καταψηφισάμενος.</ins>
+          </span>
+        </span>
+        <span title="bbox 1490 377 1577 429" class="ocr_word" id="w_21">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1606 375 1633 429" class="ocr_word" id="w_22">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span title="bbox 1663 377 1761 445" class="ocr_word" id="w_23">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μὲν</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 241 451 1761 524" class="ocr_line">
+        <span title="bbox 241 453 497 521" class="ocr_word" id="w_24">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπῆλθεν.</ins>
+          </span>
+        </span>
+        <span title="bbox 553 451 585 521" class="ocr_word" id="w_25">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἡ</ins>
+          </span>
+        </span>
+        <span title="bbox 618 453 682 505" class="ocr_word" id="w_26">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δέ</ins>
+          </span>
+        </span>
+        <span title="bbox 705 476 765 520" class="ocr_word" id="w_27">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γε</ins>
+          </span>
+        </span>
+        <span title="bbox 794 454 941 522" class="ocr_word" id="w_28">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">φήμη</ins>
+          </span>
+        </span>
+        <span title="bbox 955 497 968 522" class="ocr_word" id="w_29">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1007 452 1040 522" class="ocr_word" id="w_30">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἣ</ins>
+          </span>
+        </span>
+        <span title="bbox 1070 453 1199 524" class="ocr_word" id="w_31">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρὸς</ins>
+          </span>
+        </span>
+        <span title="bbox 1236 457 1369 523" class="ocr_word" id="w_32">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέγα</ins>
+          </span>
+        </span>
+        <span title="bbox 1404 455 1564 524" class="ocr_word" id="w_33">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τύχης</ins>
+          </span>
+        </span>
+        <span title="bbox 1594 455 1761 510" class="ocr_word" id="w_34">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτὸν</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 242 532 1803 603" class="ocr_line">
+        <span title="bbox 242 535 424 603" class="ocr_word" id="w_35">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐξῆρεν</ins>
+          </span>
+        </span>
+        <span title="bbox 456 535 513 587" class="ocr_word" id="w_36">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐν</ins>
+          </span>
+        </span>
+        <span title="bbox 543 535 775 601" class="ocr_word" id="w_37">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐλπίσιν,</ins>
+          </span>
+        </span>
+        <span title="bbox 819 532 917 587" class="ocr_word" id="w_38">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὐκ</ins>
+          </span>
+        </span>
+        <span title="bbox 957 539 1123 602" class="ocr_word" id="w_39">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔληγε.</ins>
+          </span>
+        </span>
+        <span title="bbox 1181 540 1273 587" class="ocr_word" id="w_40">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καί</ins>
+          </span>
+        </span>
+        <span title="bbox 1309 557 1444 598" class="ocr_word" id="w_41">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τινες</ins>
+          </span>
+        </span>
+        <span title="bbox 1485 538 1540 589" class="ocr_word" id="w_42">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκ</ins>
+          </span>
+        </span>
+        <span title="bbox 1569 536 1761 590" class="ocr_word" id="w_43">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τούτου</ins>
+          </span>
+        </span>
+        <span title="bbox 1784 560 1803 591" class="ocr_word" id="w_44">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">5</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 238 612 1763 683" class="ocr_line">
+        <span title="bbox 238 612 331 666" class="ocr_word" id="w_45">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 369 613 543 683" class="ocr_word" id="w_46">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄνδρα</ins>
+          </span>
+        </span>
+        <span title="bbox 580 613 711 683" class="ocr_word" id="w_47">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρὸς</ins>
+          </span>
+        </span>
+        <span title="bbox 748 613 843 667" class="ocr_word" id="w_48">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 881 615 1096 681" class="ocr_word" id="w_49">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βασιλέα</ins>
+          </span>
+        </span>
+        <span title="bbox 1140 616 1432 683" class="ocr_word" id="w_50">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">διέβαλλον.</ins>
+          </span>
+        </span>
+        <span title="bbox 1499 615 1525 669" class="ocr_word" id="w_51">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span title="bbox 1566 616 1625 669" class="ocr_word" id="w_52">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span title="bbox 1653 628 1763 680" class="ocr_word" id="w_53">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῖς</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 238 691 1761 763" class="ocr_line">
+        <span title="bbox 238 691 411 760" class="ocr_word" id="w_54">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">λόγοις</ins>
+          </span>
+        </span>
+        <span title="bbox 447 693 649 755" class="ocr_word" id="w_55">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τούτοις</ins>
+          </span>
+        </span>
+        <span title="bbox 689 693 787 761" class="ocr_word" id="w_56">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 827 694 1044 763" class="ocr_word" id="w_57">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γνώμην</ins>
+          </span>
+        </span>
+        <span title="bbox 1084 696 1403 758" class="ocr_word" id="w_58">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">διασεισθεὶς</ins>
+          </span>
+        </span>
+        <span title="bbox 1445 697 1645 749" class="ocr_word" id="w_59">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στέλλει</ins>
+          </span>
+        </span>
+        <span title="bbox 1673 697 1761 749" class="ocr_word" id="w_60">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 237 772 1763 849" class="ocr_line">
+        <span title="bbox 237 778 398 843" class="ocr_word" id="w_61">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κείρει</ins>
+          </span>
+        </span>
+        <span title="bbox 425 773 524 842" class="ocr_word" id="w_62">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μὲν</ins>
+          </span>
+        </span>
+        <span title="bbox 552 772 650 841" class="ocr_word" id="w_63">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 679 774 849 842" class="ocr_word" id="w_64">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κόμην</ins>
+          </span>
+        </span>
+        <span title="bbox 876 779 951 845" class="ocr_word" id="w_65">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 990 780 1247 845" class="ocr_word" id="w_66">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Τορνίκῃ,</ins>
+            <del title="nlp 0.90">Φοινίκῃ,</del>
+            <del title="nlp 0.89">φοινίκῃ,</del>
+            <del title="nlp 0.88">τορνία,</del>
+          </span>
+        </span>
+        <span title="bbox 1289 781 1588 845" class="ocr_word" id="w_67">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">συγκείρειν</ins>
+          </span>
+        </span>
+        <span title="bbox 1618 775 1763 849" class="ocr_word" id="w_68">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 236 853 1763 925" class="ocr_line">
+        <span title="bbox 236 863 350 915" class="ocr_word" id="w_69">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταῖς</ins>
+          </span>
+        </span>
+        <span title="bbox 379 854 524 923" class="ocr_word" id="w_70">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">θριξὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 553 854 641 906" class="ocr_word" id="w_71">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 670 853 764 916" class="ocr_word" id="w_72">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰς</ins>
+          </span>
+        </span>
+        <span title="bbox 797 856 1012 916" class="ocr_word" id="w_73">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐλπίδας</ins>
+          </span>
+        </span>
+        <span title="bbox 1037 855 1295 923" class="ocr_word" id="w_74">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οἰόμενος,</ins>
+          </span>
+        </span>
+        <span title="bbox 1328 856 1486 925" class="ocr_word" id="w_75">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ῥάκος</ins>
+          </span>
+        </span>
+        <span title="bbox 1510 857 1568 909" class="ocr_word" id="w_76">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span title="bbox 1597 858 1763 924" class="ocr_word" id="w_77">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέλαν</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 237 929 1822 1007" class="ocr_line">
+        <span title="bbox 237 930 406 986" class="ocr_word" id="w_78">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 436 929 754 1001" class="ocr_word" id="w_79">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀμφιέννυσι</ins>
+          </span>
+        </span>
+        <span title="bbox 768 976 781 1001" class="ocr_word" id="w_80">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 821 937 1019 1002" class="ocr_word" id="w_81">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ζοφοῦν</ins>
+          </span>
+        </span>
+        <span title="bbox 1060 934 1205 1007" class="ocr_word" id="w_82">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 1243 941 1467 1004" class="ocr_word" id="w_83">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">νομίζων</ins>
+          </span>
+        </span>
+        <span title="bbox 1508 938 1762 990" class="ocr_word" id="w_84">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐντεῦθεν</ins>
+          </span>
+        </span>
+        <span title="bbox 1784 961 1822 992" class="ocr_word" id="w_85">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">10</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 236 1011 1758 1084" class="ocr_line">
+        <span title="bbox 236 1011 336 1080" class="ocr_word" id="w_86">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 366 1015 814 1083" class="ocr_word" id="w_87">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προσδοκωμένην</ins>
+          </span>
+        </span>
+        <span title="bbox 841 1018 934 1081" class="ocr_word" id="w_88">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 962 1013 1122 1082" class="ocr_word" id="w_89">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τύχης</ins>
+          </span>
+        </span>
+        <span title="bbox 1152 1016 1506 1084" class="ocr_word" id="w_90">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">λαμπρότητα,</ins>
+          </span>
+        </span>
+        <span title="bbox 1537 1016 1677 1070" class="ocr_word" id="w_91">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὕτω</ins>
+          </span>
+        </span>
+        <span title="bbox 1708 1016 1758 1069" class="ocr_word" id="w_92">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δ’</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 239 1092 1763 1165" class="ocr_line">
+        <span title="bbox 239 1092 604 1145" class="ocr_word" id="w_93">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπανελθόντα</ins>
+          </span>
+        </span>
+        <span title="bbox 641 1092 760 1161" class="ocr_word" id="w_94">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μήτ’</ins>
+          </span>
+        </span>
+        <span title="bbox 796 1098 1081 1163" class="ocr_word" id="w_95">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οἰκτείρας,</ins>
+          </span>
+        </span>
+        <span title="bbox 1123 1093 1256 1147" class="ocr_word" id="w_96">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀλλὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1296 1097 1383 1147" class="ocr_word" id="w_97">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1414 1096 1763 1165" class="ocr_word" id="w_98">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπικαγχάσας</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 238 1167 1762 1247" class="ocr_line">
+        <span title="bbox 238 1167 459 1240" class="ocr_word" id="w_99">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀφῆκεν.</ins>
+          </span>
+        </span>
+        <span title="bbox 519 1176 575 1225" class="ocr_word" id="w_100">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οἶ</ins>
+          </span>
+        </span>
+        <span title="bbox 601 1173 666 1225" class="ocr_word" id="w_101">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δέ</ins>
+          </span>
+        </span>
+        <span title="bbox 699 1194 759 1240" class="ocr_word" id="w_102">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γε</ins>
+          </span>
+        </span>
+        <span title="bbox 786 1173 1100 1235" class="ocr_word" id="w_103">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Μακεδόνες</ins>
+          </span>
+        </span>
+        <span title="bbox 1139 1175 1227 1227" class="ocr_word" id="w_104">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1258 1175 1469 1247" class="ocr_word" id="w_105">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρῴην,</ins>
+          </span>
+        </span>
+        <span title="bbox 1513 1171 1583 1238" class="ocr_word" id="w_106">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὡς</ins>
+          </span>
+        </span>
+        <span title="bbox 1615 1185 1762 1244" class="ocr_word" id="w_107">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">εἰρη-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 1252 1761 1325" class="ocr_line">
+        <span data-pre-spellcheck="ται," title="bbox 235 1272 342 1318" class="ocr_word" id="w_108">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">τᾶι,</ins>
+            <del title="nlp 0.90">εἴρηται,</del>
+            <del title="nlp 0.89">εἵρηται,</del>
+          </span>
+        </span>
+        <span title="bbox 393 1257 763 1321" class="ocr_word" id="w_109">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προσκείμενοι</ins>
+          </span>
+        </span>
+        <span title="bbox 813 1258 885 1325" class="ocr_word" id="w_110">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 928 1252 1088 1323" class="ocr_word" id="w_111">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀνδρὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1137 1255 1225 1307" class="ocr_word" id="w_112">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1266 1254 1493 1324" class="ocr_word" id="w_113">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">χρηστὰς</ins>
+          </span>
+        </span>
+        <span title="bbox 1546 1258 1761 1319" class="ocr_word" id="w_114">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐλπίδας</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 73 1329 1820 1403" class="ocr_line">
+        <span title="bbox 73 1329 323 1386" class="ocr_word" id="w_115">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">PH252ἐπ’</ins>
+          </span>
+        </span>
+        <span title="bbox 356 1329 505 1403" class="ocr_word" id="w_116">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 531 1332 829 1395" class="ocr_word" id="w_117">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">θάλποντες</ins>
+          </span>
+        </span>
+        <span title="bbox 843 1375 856 1400" class="ocr_word" id="w_118">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 898 1332 1094 1395" class="ocr_word" id="w_119">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">νυκτὸς</ins>
+          </span>
+        </span>
+        <span title="bbox 1133 1332 1299 1388" class="ocr_word" id="w_120">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 1336 1334 1759 1403" class="ocr_word" id="w_121">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑπεξαγαγόντες</ins>
+          </span>
+        </span>
+        <span title="bbox 1783 1359 1820 1389" class="ocr_word" id="w_122">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">15</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 233 1411 1760 1485" class="ocr_line">
+        <span title="bbox 233 1414 326 1479" class="ocr_word" id="w_123">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 354 1416 626 1480" class="ocr_word" id="w_124">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βασιλίδος</ins>
+          </span>
+        </span>
+        <span title="bbox 664 1417 771 1466" class="ocr_word" id="w_125">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span title="bbox 810 1412 1016 1466" class="ocr_word" id="w_126">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πόλεων</ins>
+          </span>
+        </span>
+        <span title="bbox 1061 1415 1111 1475" class="ocr_word" id="w_127">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐς</ins>
+          </span>
+        </span>
+        <span title="bbox 1149 1413 1246 1482" class="ocr_word" id="w_128">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 1285 1411 1464 1468" class="ocr_word" id="w_129">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῶν</ins>
+          </span>
+        </span>
+        <span title="bbox 1492 1415 1760 1485" class="ocr_word" id="w_130">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">μητρόπο-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 237 1490 1760 1565" class="ocr_line">
+        <span data-pre-spellcheck="λιν" title="bbox 237 1497 320 1543" class="ocr_word" id="w_131">
+          <span class="alternatives">
+            <ins title="nlp 0.99" class="alt">μητρόπολιν</ins>
+            <del title="nlp 0.90">λῖν</del>
+          </span>
+        </span>
+        <span title="bbox 369 1490 560 1558" class="ocr_word" id="w_132">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἄγουσι</ins>
+          </span>
+        </span>
+        <span title="bbox 607 1491 705 1560" class="ocr_word" id="w_133">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span title="bbox 749 1491 1190 1562" class="ocr_word" id="w_134">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ἀδριανούπολιν</ins>
+            <del title="nlp 0.90">Ἀβρούπολιν</del>
+            <del title="nlp 0.89">Ἀδριανούς</del>
+            <del title="nlp 0.88">Ἀδριανοῖο</del>
+          </span>
+        </span>
+        <span title="bbox 1203 1537 1216 1562" class="ocr_word" id="w_135">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1268 1496 1356 1547" class="ocr_word" id="w_136">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1400 1498 1610 1565" class="ocr_word" id="w_137">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σπουδῇ</ins>
+          </span>
+        </span>
+        <span title="bbox 1653 1501 1760 1549" class="ocr_word" id="w_138">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 1571 1759 1645" class="ocr_line">
+        <span title="bbox 235 1572 695 1640" class="ocr_word" id="w_139">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προστεθειμένων</ins>
+          </span>
+        </span>
+        <span title="bbox 725 1571 867 1644" class="ocr_word" id="w_140">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 908 1572 1040 1641" class="ocr_word" id="w_141">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταχὺ</ins>
+          </span>
+        </span>
+        <span title="bbox 1072 1571 1136 1626" class="ocr_word" id="w_142">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1167 1578 1330 1627" class="ocr_word" id="w_143">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πλείω</ins>
+          </span>
+        </span>
+        <span title="bbox 1365 1579 1474 1628" class="ocr_word" id="w_144">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span title="bbox 1505 1591 1759 1645" class="ocr_word" id="w_145">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στρατευ-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 1650 1759 1727" class="ocr_line">
+        <span title="bbox 235 1650 416 1719" class="ocr_word" id="w_146">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μάτων</ins>
+          </span>
+        </span>
+        <span title="bbox 460 1653 570 1704" class="ocr_word" id="w_147">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκεῖ</ins>
+          </span>
+        </span>
+        <span title="bbox 606 1657 1084 1721" class="ocr_word" id="w_148">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">συνηθροίσθησαν</ins>
+          </span>
+        </span>
+        <span title="bbox 1134 1650 1165 1721" class="ocr_word" id="w_149">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἢ</ins>
+          </span>
+        </span>
+        <span title="bbox 1206 1655 1294 1706" class="ocr_word" id="w_150">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1335 1660 1475 1723" class="ocr_word" id="w_151">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μίσει</ins>
+          </span>
+        </span>
+        <span title="bbox 1513 1659 1586 1727" class="ocr_word" id="w_152">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 1628 1655 1759 1724" class="ocr_word" id="w_153">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρὸς</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 234 1729 1819 1803" class="ocr_line">
+        <span title="bbox 234 1730 327 1783" class="ocr_word" id="w_154">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 356 1729 732 1801" class="ocr_word" id="w_155">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτοκράτορα.</ins>
+          </span>
+        </span>
+        <span title="bbox 791 1732 878 1785" class="ocr_word" id="w_156">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">διά</ins>
+          </span>
+        </span>
+        <span title="bbox 905 1755 1049 1795" class="ocr_word" id="w_157">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τινας</ins>
+          </span>
+        </span>
+        <span title="bbox 1079 1733 1179 1803" class="ocr_word" id="w_158">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">γὰρ</ins>
+          </span>
+        </span>
+        <span title="bbox 1210 1738 1379 1797" class="ocr_word" id="w_159">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αἰτίας</ins>
+          </span>
+        </span>
+        <span data-pre-spellcheck="οὔτ" title="bbox 1409 1733 1505 1787" class="ocr_word" id="w_160">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὔτ’</ins>
+          </span>
+        </span>
+        <span title="bbox 1558 1736 1757 1798" class="ocr_word" id="w_161">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκεῖνος</ins>
+          </span>
+        </span>
+        <span title="bbox 1781 1759 1819 1787" class="ocr_word" id="w_162">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">20</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 234 1812 1758 1883" class="ocr_line">
+        <span title="bbox 234 1815 406 1873" class="ocr_word" id="w_163">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καλῶς</ins>
+          </span>
+        </span>
+        <span title="bbox 435 1823 545 1873" class="ocr_word" id="w_164">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῖς</ins>
+          </span>
+        </span>
+        <span title="bbox 576 1812 909 1881" class="ocr_word" id="w_165">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στρατιώταις</ins>
+          </span>
+        </span>
+        <span title="bbox 941 1814 1210 1883" class="ocr_word" id="w_166">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκέχρητο,</ins>
+          </span>
+        </span>
+        <span title="bbox 1243 1812 1376 1867" class="ocr_word" id="w_167">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀλλὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1406 1815 1493 1866" class="ocr_word" id="w_168">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1522 1812 1758 1879" class="ocr_word" id="w_169">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑποψίας</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 233 1888 1757 1964" class="ocr_line">
+        <span title="bbox 233 1888 500 1961" class="ocr_word" id="w_170">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὑπέτρεφε</ins>
+          </span>
+        </span>
+        <span data-pre-spellcheck="κατ" title="bbox 549 1913 646 1944" class="ocr_word" id="w_171">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατ’</ins>
+          </span>
+        </span>
+        <span title="bbox 719 1891 923 1959" class="ocr_word" id="w_172">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῶν,</ins>
+          </span>
+        </span>
+        <span title="bbox 982 1889 1219 1946" class="ocr_word" id="w_173">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κἀκεῖνοι</ins>
+          </span>
+        </span>
+        <span title="bbox 1268 1894 1356 1946" class="ocr_word" id="w_174">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">διὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1407 1898 1573 1947" class="ocr_word" id="w_175">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταῦτα</ins>
+          </span>
+        </span>
+        <span title="bbox 1623 1895 1757 1964" class="ocr_word" id="w_176">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρὸς</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 1967 1758 2043" class="ocr_line">
+        <span title="bbox 235 1974 391 2037" class="ocr_word" id="w_177">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔχθος</ins>
+          </span>
+        </span>
+        <span data-pre-spellcheck="κατ" title="bbox 419 1992 515 2023" class="ocr_word" id="w_178">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατ’</ins>
+          </span>
+        </span>
+        <span title="bbox 569 1967 735 2024" class="ocr_word" id="w_179">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτοῦ</ins>
+          </span>
+        </span>
+        <span title="bbox 769 1970 1084 2041" class="ocr_word" id="w_180">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἠρεθίζοντο.</ins>
+          </span>
+        </span>
+        <span title="bbox 1146 1972 1214 2035" class="ocr_word" id="w_181">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὡς</ins>
+          </span>
+        </span>
+        <span title="bbox 1245 1972 1294 2025" class="ocr_word" id="w_182">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δ’</ins>
+          </span>
+        </span>
+        <span title="bbox 1329 1968 1429 2027" class="ocr_word" id="w_183">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὖν</ins>
+          </span>
+        </span>
+        <span title="bbox 1465 1976 1758 2043" class="ocr_word" id="w_184">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">συνελέγη-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 2048 1757 2124" class="ocr_line">
+        <span data-pre-spellcheck="σαν," title="bbox 235 2065 363 2119" class="ocr_word" id="w_185">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">’σαν,</ins>
+            <del title="nlp 0.90">συνελέγησαν,</del>
+            <del title="nlp 0.89">συνελέγησάν,</del>
+            <del title="nlp 0.88">συνελέγχθησαν,</del>
+          </span>
+        </span>
+        <span title="bbox 395 2048 657 2118" class="ocr_word" id="w_186">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εὐφημίας</ins>
+          </span>
+        </span>
+        <span title="bbox 688 2048 855 2105" class="ocr_word" id="w_187">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτὸν</ins>
+          </span>
+        </span>
+        <span title="bbox 886 2052 1072 2105" class="ocr_word" id="w_188">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτίκα</ins>
+          </span>
+        </span>
+        <span title="bbox 1099 2058 1372 2121" class="ocr_word" id="w_189">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βασιλικῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 1403 2055 1490 2106" class="ocr_word" id="w_190">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1519 2053 1757 2124" class="ocr_word" id="w_191">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀναρρή-</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 2131 1818 2204" class="ocr_line">
+        <span title="bbox 235 2146 367 2192" class="ocr_word" id="w_192">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σεως</ins>
+          </span>
+        </span>
+        <span title="bbox 415 2133 760 2198" class="ocr_word" id="w_193">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατηξίωσαν.</ins>
+          </span>
+        </span>
+        <span title="bbox 820 2131 846 2184" class="ocr_word" id="w_194">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span title="bbox 893 2132 952 2185" class="ocr_word" id="w_195">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δὲ</ins>
+          </span>
+        </span>
+        <span title="bbox 996 2131 1100 2186" class="ocr_word" id="w_196">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σὺν</ins>
+          </span>
+        </span>
+        <span title="bbox 1149 2131 1332 2195" class="ocr_word" id="w_197">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτοῖς</ins>
+          </span>
+        </span>
+        <span title="bbox 1385 2133 1550 2196" class="ocr_word" id="w_198">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εὐθὺς</ins>
+          </span>
+        </span>
+        <span title="bbox 1596 2139 1754 2204" class="ocr_word" id="w_199">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἔργου</ins>
+          </span>
+        </span>
+        <span title="bbox 1779 2156 1818 2187" class="ocr_word" id="w_200">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">25</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 236 2209 1762 2284" class="ocr_line">
+        <span title="bbox 236 2218 421 2278" class="ocr_word" id="w_201">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εἴχετο,</ins>
+          </span>
+        </span>
+        <span title="bbox 453 2212 542 2263" class="ocr_word" id="w_202">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 572 2209 775 2281" class="ocr_word" id="w_203">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀθρόον</ins>
+          </span>
+        </span>
+        <span title="bbox 804 2216 869 2281" class="ocr_word" id="w_204">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῇ</ins>
+          </span>
+        </span>
+        <span title="bbox 899 2213 1255 2283" class="ocr_word" id="w_205">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βασιλευούσῃ</ins>
+          </span>
+        </span>
+        <span title="bbox 1289 2216 1529 2284" class="ocr_word" id="w_206">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐπιφοιτᾷ</ins>
+          </span>
+        </span>
+        <span title="bbox 1545 2255 1558 2281" class="ocr_word" id="w_207">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1589 2220 1683 2267" class="ocr_word" id="w_208">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καί</ins>
+          </span>
+        </span>
+        <span title="bbox 1708 2218 1762 2268" class="ocr_word" id="w_209">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οἶ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 182 2288 1758 2364" class="ocr_line">
+        <span title="bbox 182 2305 217 2342" class="ocr_word" id="w_210">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">B</ins>
+            <del title="nlp 0.90">B</del>
+          </span>
+        </span>
+        <span title="bbox 239 2288 509 2359" class="ocr_word" id="w_211">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προσιόντι</ins>
+          </span>
+        </span>
+        <span title="bbox 546 2297 913 2361" class="ocr_word" id="w_212">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προσεφοίτων</ins>
+          </span>
+        </span>
+        <span title="bbox 961 2294 1147 2345" class="ocr_word" id="w_213">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πολλοὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1185 2294 1272 2345" class="ocr_word" id="w_214">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1322 2298 1630 2364" class="ocr_word" id="w_215">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στρατιῶται</ins>
+          </span>
+        </span>
+        <span title="bbox 1670 2296 1758 2347" class="ocr_word" id="w_216">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 235 2368 1758 2443" class="ocr_line">
+        <span title="bbox 235 2368 464 2438" class="ocr_word" id="w_217">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀστικοί,</ins>
+          </span>
+        </span>
+        <span title="bbox 504 2370 747 2433" class="ocr_word" id="w_218">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κἀκεῖνος</ins>
+          </span>
+        </span>
+        <span title="bbox 775 2383 891 2434" class="ocr_word" id="w_219">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ταῖς</ins>
+          </span>
+        </span>
+        <span title="bbox 932 2375 1136 2426" class="ocr_word" id="w_220">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐλπίσιν</ins>
+          </span>
+        </span>
+        <span title="bbox 1164 2369 1400 2443" class="ocr_word" id="w_221">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ᾐώρητο,</ins>
+          </span>
+        </span>
+        <span title="bbox 1444 2373 1514 2436" class="ocr_word" id="w_222">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὡς</ins>
+          </span>
+        </span>
+        <span title="bbox 1553 2371 1758 2437" class="ocr_word" id="w_223">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οὔτινος</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 234 2447 1758 2521" class="ocr_line">
+        <span title="bbox 234 2447 380 2520" class="ocr_word" id="w_224">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 411 2448 855 2519" class="ocr_word" id="w_225">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀντιστησομένου</ins>
+          </span>
+        </span>
+        <span title="bbox 871 2493 884 2519" class="ocr_word" id="w_226">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 917 2450 1051 2505" class="ocr_word" id="w_227">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀλλὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1081 2457 1284 2521" class="ocr_word" id="w_228">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μᾶλλον</ins>
+          </span>
+        </span>
+        <span title="bbox 1314 2451 1758 2508" class="ocr_word" id="w_229">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀναπετασόντων</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 234 2527 1815 2602" class="ocr_line">
+        <span title="bbox 234 2527 380 2601" class="ocr_word" id="w_230">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">αὐτῷ</ins>
+          </span>
+        </span>
+        <span title="bbox 413 2527 645 2592" class="ocr_word" id="w_231">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εὐπετῶς</ins>
+          </span>
+        </span>
+        <span title="bbox 675 2532 763 2584" class="ocr_word" id="w_232">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 793 2531 883 2594" class="ocr_word" id="w_233">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰς</ins>
+          </span>
+        </span>
+        <span title="bbox 914 2532 1085 2595" class="ocr_word" id="w_234">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πύλας</ins>
+          </span>
+        </span>
+        <span title="bbox 1114 2536 1205 2601" class="ocr_word" id="w_235">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 1237 2533 1436 2597" class="ocr_word" id="w_236">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πόλεως</ins>
+          </span>
+        </span>
+        <span title="bbox 1453 2576 1466 2602" class="ocr_word" id="w_237">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1498 2534 1578 2587" class="ocr_word" id="w_238">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὅτι</ins>
+          </span>
+        </span>
+        <span title="bbox 1605 2554 1660 2586" class="ocr_word" id="w_239">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τε</ins>
+          </span>
+        </span>
+        <span title="bbox 1688 2533 1750 2587" class="ocr_word" id="w_240">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὰ</ins>
+          </span>
+        </span>
+        <span title="bbox 1777 2556 1815 2586" class="ocr_word" id="w_241">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">30</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 236 2610 1754 2684" class="ocr_line">
+        <span title="bbox 236 2610 339 2681" class="ocr_word" id="w_242">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἑῷα</ins>
+          </span>
+        </span>
+        <span title="bbox 379 2610 741 2681" class="ocr_word" id="w_243">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">στρατεύματα</ins>
+          </span>
+        </span>
+        <span title="bbox 778 2611 1020 2680" class="ocr_word" id="w_244">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πολέμοις</ins>
+          </span>
+        </span>
+        <span title="bbox 1073 2615 1182 2666" class="ocr_word" id="w_245">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐκεῖ</ins>
+          </span>
+        </span>
+        <span title="bbox 1225 2613 1618 2684" class="ocr_word" id="w_246">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προσησχόλητο</ins>
+          </span>
+        </span>
+        <span title="bbox 1667 2615 1754 2666" class="ocr_word" id="w_247">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+      </span>
+      <br></br>
+      <span title="bbox 237 2688 1754 2763" class="ocr_line" id="w_257">
+        <span title="bbox 237 2688 315 2742" class="ocr_word" id="w_248">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὅτι</ins>
+          </span>
+        </span>
+        <span title="bbox 342 2690 431 2743" class="ocr_word" id="w_249">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 461 2694 515 2744" class="ocr_word" id="w_250">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">οἶ</ins>
+          </span>
+        </span>
+        <span title="bbox 538 2693 631 2759" class="ocr_word" id="w_251">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 661 2690 859 2754" class="ocr_word" id="w_252">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πόλεως</ins>
+          </span>
+        </span>
+        <span data-pre-spellcheck="δι" title="bbox 891 2696 941 2744" class="ocr_word" id="w_253">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δι’</ins>
+          </span>
+        </span>
+        <span title="bbox 985 2689 1144 2763" class="ocr_word" id="w_254">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὀργῆς</ins>
+          </span>
+        </span>
+        <span title="bbox 1177 2696 1448 2747" class="ocr_word" id="w_255">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐποιοῦντο</ins>
+          </span>
+        </span>
+        <span title="bbox 1471 2693 1564 2747" class="ocr_word" id="w_256">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὸν</ins>
+          </span>
+        </span>
+        <span id="w_257" class="ocr_word" title="bbox 1593 2692 1754 2748"><span class="alternatives"><ins title="nlp 0.93" class="alt">αὐτο-</ins></span></span>
+      </span>
+      
+      
+    </div>
+  </body>
+</html>
